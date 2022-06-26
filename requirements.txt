@@ -1,1 +1,6 @@
 Flask==1.1.2
+tensorflow
+opencv-python
+matplotlib
+numpy
+matplotlib
